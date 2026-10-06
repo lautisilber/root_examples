@@ -189,6 +189,6 @@
 
     // when running in batch mode (e.g. in CI), save the canvas to a file
     if (gROOT->IsBatch()) {
-        c->SaveAs("multiplot.pdf");
+        c->SaveAs("multiplot.png");
     }
 }

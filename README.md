@@ -2,4 +2,4 @@
 
 A root macro that has examples for simple graphing tasks that can be referenced. The resulting plot is:
 
-![multiplot.pdf](multiplot.pdf)
+![multiplot.pdf](multiplot.png)
